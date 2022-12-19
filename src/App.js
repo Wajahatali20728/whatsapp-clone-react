@@ -103,7 +103,7 @@ function App() {
                 <Message text="OK Bro Sooory I Got It" type="send" />
                 <Message text="HEY...?" type="receive" />
                 <Message text="What The Fuck...!!!?" type="send" />
-                <Message text="HaHaHa" type="receive" />
+                <Message text="lol" type="receive" />
               </div>
             </div>
             <div className="lowerRightSection">
